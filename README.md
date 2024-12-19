@@ -22,6 +22,8 @@ Technologies:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 </div>
 
+<hr/>
+
 <div align="center">
   <img 
     src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=SkitCon&hide=Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
