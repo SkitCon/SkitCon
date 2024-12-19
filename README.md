@@ -26,7 +26,7 @@ Technologies:
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=SkitCon&hide=Jupyter+Notebook,Java&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    src="https://github-readme-stats-l-m-sherlock.vercel.app/api/top-langs/?username=SkitCon&hide=Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
     alt="My Language stats"
     height="220"
   />
