@@ -1,6 +1,6 @@
 ### Amber Converse
 
-Hi, my name is Amber Converse! I am a developer primarily in NLP and computational linguistics focusing on event-based classification/extraction and phonetics. I am currently a member of the ConfliBERT research project at the University of Arizona.
+Hi, my name is Amber Converse! I am a developer primarily in NLP and computational linguistics focusing on classification, information extraction, and phonetics. I am currently a data scientist at HOPPR working on machine learning applications to medical imaging.
 
 I have a passion for linguistics and machine learning. My primary research interests are in computer-assisted second-langage acquisition, speech recognition, and event classification.
 
